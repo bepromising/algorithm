@@ -2,6 +2,7 @@ let arr = [1,3,5,6,7,9,10,11,22,43,56,90,110,222];
 
 
 /**
+ * 前提是，传进来的数组是有序的。
  * @param {Array} arr 要检验的数组
  * @param {Number} number 要检验的元素
  * @return {String} 告知是否存在此元素
